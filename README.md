@@ -1,2 +1,3 @@
 # menu-de-um-site
-Menu usando html, css e javascript, baseado em projeto feito pelo Dev Club.
+Menu usando html, css e javascript.
+Acesse o site criado por esse link, https://mauricioferrer.github.io/menu-de-um-site/.
